@@ -14,6 +14,7 @@ if ( $deployment == 'blue') {
 }
 
 // Draw a filled rectangle
+// Dummy comment
 imagefilledrectangle($im, 0, 0, 199, 199, $color);
 
 // Save the image
